@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="#000000"
+        android:text="A mobile phone (also known as a hand phone, cell phone, or cellular telephone) is a small portable radio telephone.
+        The mobile phone can be used to communicate over long distances without wires.
+        It works by communicating with a nearby base station (also called a cell site) which connects it to the main phone network.
+        A mobile phone (also known as a hand phone, cell phone, or cellular telephone) is a small portable radio telephone.
+        The mobile phone can be used to communicate over long distances without wires.
+        It works by communicating with a nearby base station (also called a cell site) which connects it to the main phone network."
+        />
+</FrameLayout>
